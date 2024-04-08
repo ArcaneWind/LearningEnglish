@@ -1,2 +1,2 @@
 # LearningEnglish
-It's not a program, it's just a note.
+It's not a project, it's just a note.
