@@ -1,8 +1,6 @@
 # Sentence construction formulas
 
-1. **I'm getting ____**
-
-​	我要____
+1. **I'm getting ____ 我要____**
 
 * I'm getting a drink. 我要去拿一杯酒
 * I'm getting proficient at optimizing SQL queries and database schemas, which significantly reduces the latency in our data retrieval operations.
@@ -14,9 +12,7 @@
 * I'm getting familiar with event-driven programming and Kafka for building highly responsive and asynchronous systems, improving data processing and throughput.
   我正在熟悉事件驱动编程和Kafka，用于构建高度响应和异步的系统，改善数据处理和吞吐量。
 
-2. **I'm gonna(going to)____**
-
-​	我将要____
+2. **I'm gonna(going to)____ 我将要____**
 
 * I'm gonna refactor our legacy codebase to improve maintainability and introduce modern programming paradigms, enhancing our system's performance and scalability.
   我打算重构我们的遗留代码库以提高可维护性，并引入现代编程范式，提升我们系统的性能和可扩展性。
@@ -29,9 +25,7 @@
 * I'm gonna enhance our security posture by implementing comprehensive encryption, proper access controls, and regular security assessments to protect sensitive data and resources.
   我打算通过实施全面的加密、适当的访问控制和定期的安全评估来加强我们的安全态势，以保护敏感数据和资源。
 
-3. **I'm used to____**
-
-​	我习惯于____
+3. **I'm used to____ 我习惯于____**
 
 * I'm used to working in fast-paced environments, where deploying scalable and robust back-end solutions rapidly is crucial for success.
   我习惯于在快节奏的环境中工作，迅速部署可扩展且稳健的后端解决方案对于成功至关重要。
@@ -44,9 +38,7 @@
 * I'm used to actively seeking out new learning opportunities to stay ahead in my field, whether through online courses, workshops, or tech meetups.
   我习惯于积极寻找新的学习机会，以保持在我的领域中处于领先地位，无论是通过在线课程、研讨会还是技术聚会。
 
-4. **I'm not sure if ____**
-
-​	我不确定是否____
+4. **I'm not sure if ____ 我不确定是否____**
 
 * I'm not sure if we're fully leveraging the potential of NoSQL databases in our current project to handle unstructured data efficiently.
   我不确定我们是否在当前项目中充分利用了NoSQL数据库处理非结构化数据的潜力。
