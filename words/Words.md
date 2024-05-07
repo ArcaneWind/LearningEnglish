@@ -49,4 +49,6 @@
 47. mechanism 机制
 48. failover 故障转移
 49. stakeholder 利益相关者
-50. 
+50. appendix 附录
+51. protocol 协议
+52. 
