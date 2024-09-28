@@ -51,3 +51,94 @@
 * I'm not sure if I've taken full advantage of all the professional development opportunities offered by the company to enhance my skills.
   我不确定我是否充分利用了公司提供的所有职业发展机会来提升我的技能。
 
+5. **I'm looking forward to __  我很期待__ **
+
+- I'm looking forward to the weekend.
+  我期待周末的到来。
+- I'm looking forward to seeing my friends tomorrow.
+  我期待明天见到我的朋友们。
+
+- I'm looking forward to optimizing the system's performance.
+  我期待优化系统的性能。
+- I'm looking forward to working on distributed architecture challenges.
+  我期待解决分布式架构的挑战。
+
+- I'm looking forward to contributing to the team's success.
+  我期待为团队的成功做出贡献。
+- I'm looking forward to applying my problem-solving skills in new projects.
+  我期待在新项目中运用我的问题解决能力。
+
+6. **I'm working on __ 我正在做__**
+
+* I'm working on my new project.
+  我正在处理我的新项目。
+* I'm working on improving my cooking skills.
+  我正在提升我的厨艺。
+* I'm working on optimizing the database queries.
+  我正在优化数据库查询。
+* I'm working on implementing a microservices architecture.
+  我正在实现微服务架构。
+* I'm working on improving my communication within the team.
+  我正在努力提升我在团队中的沟通能力。
+* I'm working on developing my leadership skills.
+  我正在培养我的领导能力。
+
+7. **I'm thinking about ___ 我正在考虑___**
+
+- I'm thinking about going to the beach this weekend.
+  我在考虑这个周末去海滩。
+- I'm thinking about trying a new restaurant tonight.
+  我在考虑今晚尝试一家新餐厅。
+- I'm thinking about refactoring the code to improve efficiency.
+  我在考虑重构代码以提高效率。
+- I'm thinking about using a different database solution for scalability.
+  我在考虑使用不同的数据库方案来提高可扩展性。
+- I'm thinking about how I can contribute more to the team's success.
+  我在思考如何为团队的成功做出更多贡献。
+- I'm thinking about improving my time management skills.
+  我在考虑如何提升我的时间管理能力。
+
+8. **I'm dying to ___ 我非常想___**
+
+- I'm dying to try that new dessert everyone's talking about.
+  我迫不及待想尝试大家都在讨论的那个新甜点。
+- I'm dying to watch the new movie that just came out.
+  我迫不及待想看刚上映的新电影。
+- I'm dying to deploy the new feature we've been working on.
+  我迫不及待想部署我们一直在开发的新功能。
+- I'm dying to solve this performance issue in the system.
+  我迫不及待想解决系统中的性能问题。
+- I'm dying to share the success of the project with my team.
+  我迫不及待想与团队分享项目的成功。
+- I'm dying to see how my new approach works in a real scenario.
+  我迫不及待想看看我的新方法在实际场景中如何运作。
+
+9. **I'm afraid I ___  我恐怕___**
+
+- I'm afraid I left my keys at home.
+  我怕是把钥匙忘在家里了。
+- I'm afraid I can't make it to the party tonight.
+  我恐怕今晚不能去参加派对了。
+- I'm afraid I misunderstood the project requirements.
+  我担心我误解了项目需求。
+- I'm afraid I introduced a bug in the last code update.
+  我担心我在上一次代码更新中引入了一个错误。
+- I'm afraid I didn't communicate my ideas clearly during the meeting.
+  我担心我在会议上没有清楚表达我的想法。
+- I'm afraid I overlooked some important details in the report.
+  我担心我在报告中忽略了一些重要细节。
+
+10. **I have been ___ 我一直在___**
+
+- I have been waiting for this concert for months.
+  我已经等这个演唱会好几个月了。
+- I have been learning how to play the guitar recently.
+  我最近一直在学弹吉他。
+- I have been working on improving the system's scalability.
+  我一直在努力提升系统的可扩展性。
+- I have been debugging the application for the past few hours.
+  我已经调试这个应用好几个小时了。
+- I have been collaborating with different teams to achieve our goals.
+  我一直在与不同的团队合作以实现我们的目标。
+- I have been trying to enhance my leadership skills in the workplace.
+  我一直在努力提升我的职场领导能力。
