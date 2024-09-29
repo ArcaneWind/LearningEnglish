@@ -142,3 +142,34 @@
   我一直在与不同的团队合作以实现我们的目标。
 - I have been trying to enhance my leadership skills in the workplace.
   我一直在努力提升我的职场领导能力。
+
+11. **I used to __  我以前___**
+
+- I used to play basketball every weekend.
+  我以前每个周末都会打篮球。
+- I used to drink coffee every morning, but now I prefer tea.
+  我以前每天早上都喝咖啡，但现在我更喜欢喝茶。
+- I used to work with monolithic systems before switching to microservices.
+  我以前处理的是单体系统，后来转向了微服务架构。
+- I used to rely on manual testing before we implemented automated tests.
+  我以前依赖手动测试，直到我们实施了自动化测试。
+- I used to struggle with time management, but I've improved a lot.
+  我以前在时间管理方面有困难，但我已经进步了很多。
+- I used to avoid public speaking, but now I feel much more confident.
+  我以前避免公开演讲，但现在我自信多了。
+
+12. **I'm about to do 我正要去做__**
+
+- I'm about to go for a run in the park.
+  我正要去公园跑步。
+- I'm about to start cooking dinner.
+  我正要开始做晚饭。
+- I'm about to deploy the latest version of the application.
+  我正要部署应用程序的最新版本。
+- I'm about to review the code changes from the last sprint.
+  我正要审查上次冲刺的代码更改。
+- I'm about to present my ideas to the team during the meeting.
+  我正要在会议中向团队展示我的想法。
+- I'm about to finalize the project report for submission.
+  我正要完成项目报告的提交。
+
